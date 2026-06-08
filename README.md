@@ -37,8 +37,8 @@ Portfolio: https://portfolio-one-pearl-90.vercel.app/
 
 ## GitHub Stats
 
-![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunalsoni20&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunalsoni20&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsoni20&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsoni20&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kunalsoni20&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=kunalsoni20)
