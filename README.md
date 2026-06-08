@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋 I'm Kunal Soni
 
-<!--
-**kunalsoni20/kunalsoni20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer | Java Developer | DSA Enthusiast
 
-Here are some ideas to get you started:
+🎯 Preparing for Product Based Companies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+- Java
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+
+🏆 Achievements:
+- Smart Interviews Certified
+- DSA Problem Solver
+- MERN Stack Developer
+
+## Featured Projects
+
+### AI Bug Detection System
+AI-powered bug detection application.
+
+### Digital Nearby Vendor
+Vendor discovery platform built using MERN.
+
+### Portfolio Website
+Personal portfolio showcasing projects and skills.
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/kunal-soni-203b372aa/
+
+Portfolio: https://portfolio-one-pearl-90.vercel.app/
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunalsoni20&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsoni20&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kunalsoni20)
